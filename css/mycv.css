@@ -1,0 +1,106 @@
+@CHARSET "UTF-8";
+
+body{
+	font-family: 'Gabriela', serif;
+	
+}
+header{
+	background-color:#2c3e50;
+}
+.center{
+	    text-align: center;
+}
+.great{
+		font-size:150%;
+}
+.green-text{
+	color:#1abc9c;
+}
+.color-background{
+	background-color:#ecf0f1;
+	color:#485051;
+}
+.white-background{
+	/*background-color:white;*/
+	color:white;
+}
+div.signature{
+	    direction: rtl;
+	    
+}
+ul.nopuce{
+	 list-style-type: none;
+	 
+}
+@media (min-width: 768px) {
+.bande-verticale{
+	background-image:url(../images/bande.png);
+	background-repeat:repeat-y;
+	
+	}
+}
+/* glue: 0.4 hash: e8c060cf3b */
+.sprite-vignettes-wamp,
+.sprite-vignettes-ubuntu,
+.sprite-vignettes-symfony,
+.sprite-vignettes-sql-server,
+.sprite-vignettes-sharepoint,
+.sprite-vignettes-redmine,
+.sprite-vignettes-python,
+.sprite-vignettes-powerpoint,
+.sprite-vignettes-postgresql,
+.sprite-vignettes-php,
+.sprite-vignettes-oracle,
+.sprite-vignettes-odoo,
+.sprite-vignettes-mysql,
+.sprite-vignettes-jenkins,
+.sprite-vignettes-jasperreport,
+.sprite-vignettes-excel,
+.sprite-vignettes-eclipse,
+.sprite-vignettes-drupal,
+.sprite-vignettes-debian,
+.sprite-vignettes-bande,
+.sprite-vignettes-access{background-image:url('../images/vignettes.png');background-repeat:no-repeat}
+.sprite-vignettes-wamp{background-position:0px 0px;width:105px;height:44px;}
+.sprite-vignettes-ubuntu{background-position:0px -44px;width:105px;height:52px;}
+.sprite-vignettes-symfony{background-position:-105px 0px;width:105px;height:36px;}
+.sprite-vignettes-sql-server{background-position:0px -96px;width:105px;height:86px;}
+.sprite-vignettes-sharepoint{background-position:-105px -36px;width:105px;height:33px;
+ zoom:0.3;
+    -moz-transform:scale(0.3);
+    -moz-transform-origin: 0 0;}
+.sprite-vignettes-redmine{background-position:-105px -96px;width:105px;height:35px;}
+.sprite-vignettes-python{background-position:-105px -131px;width:105px;height:35px;}
+.sprite-vignettes-powerpoint{background-position:-210px 0px;width:105px;height:103px;
+ zoom:0.3;
+    -moz-transform:scale(0.3);
+    -moz-transform-origin: 0 0;}
+.sprite-vignettes-postgresql{background-position:-210px -103px;width:105px;height:38px;}
+.sprite-vignettes-php{background-position:0px -182px;width:105px;height:63px;}
+.sprite-vignettes-oracle{background-position:-315px 0px;width:105px;height:79px;}
+.sprite-vignettes-odoo{background-position:-315px -79px;width:105px;height:79px;}
+.sprite-vignettes-mysql{background-position:-315px -158px;width:105px;height:54px;}
+.sprite-vignettes-jenkins{background-position:-210px -141px;width:105px;height:34px;}
+.sprite-vignettes-jasperreport{background-position:-315px -212px;width:105px;height:18px;}
+.sprite-vignettes-excel{background-position:0px -245px;width:105px;height:103px;
+ zoom:0.3;
+    -moz-transform:scale(0.3);
+    -moz-transform-origin: 0 0;}
+.sprite-vignettes-eclipse{background-position:-105px -69px;width:105px;height:25px;}
+.sprite-vignettes-drupal{background-position:-105px -182px;width:105px;height:42px;}
+.sprite-vignettes-debian{background-position:-420px 0px;width:79px;height:105px;}
+.sprite-vignettes-bande{background-position:-105px -245px;width:105px;height:54px;}
+.sprite-vignettes-access{background-position:0px -348px;width:105px;height:103px;
+   zoom:0.3;
+    -moz-transform:scale(0.3);
+    -moz-transform-origin: 0 0;
+}
+.left{
+	float:left;
+}
+div.pdf{
+	vertical-align:middle;
+	horizontal-align:middle;
+}
+
+
