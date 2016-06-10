@@ -20,8 +20,10 @@ Site statique d'une seule page en HTML5, utilisant:
 -------------
 
 Usage de Bower pour gérer les dépendances CSS/JS de Bootstrap
+
 Usage de Gulp pour le workflow de génération des CSS et JS en partant de Bootstrap-sass-official
-Exécutez les 3 lignes de commande suivante pour générer les assets utiles et référencé dans la page principal
-1) gulp sass => génère le fichier CSS
-2) gulp compress => génère le fichier javascript
-3) gulp fonts => copie les fonts de bootstrap dans un répertoire accessible au fichier CSS créé
+
+Exécutez les 3 lignes de commande suivante pour générer les assets utiles et référencé dans la page principal:
+- 1) gulp sass => génère le fichier CSS
+- 2) gulp compress => génère le fichier javascript
+- 3) gulp fonts => copie les fonts de bootstrap dans un répertoire accessible au fichier CSS créé
