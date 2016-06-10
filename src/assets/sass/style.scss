@@ -1,4 +1,5 @@
-@CHARSET "UTF-8";
+@import "customVariables";
+@import "../vendor/bootstrap-sass/assets/stylesheets/bootstrap";
 
 body{
 	font-family: 'Gabriela', serif;
@@ -102,5 +103,3 @@ div.pdf{
 	vertical-align:middle;
 	horizontal-align:middle;
 }
-
-

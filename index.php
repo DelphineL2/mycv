@@ -10,9 +10,8 @@
 		<meta property="og:image" content="http://delphinelemire.fr/images/logo.png" />
   
 		<link href='https://fonts.googleapis.com/css?family=Gabriela' rel='stylesheet' type='text/css'>
- 		<link rel="stylesheet" href="css/bootstrap.min.css" />
-        <link rel="stylesheet" href="css/bootstrap-theme.min.css" />
-       	<link rel="stylesheet" href="css/mycv.css" />
+ 		
+       		<link rel="stylesheet" href="css/style.css" />
         <link rel="icon" type="image/png" href="/images/logo.png" />
        
         <title>Delphine Lemire - Développeuse </title>
@@ -33,6 +32,8 @@
 		        <li class="active"><a data-toggle="collapse" data-target=".navbar-collapse" href="#">Profil</a></li>
 		        <li><a data-toggle="collapse" data-target=".navbar-collapse" href="#parcours">Parcours</a></li>
 		        <li><a data-toggle="collapse" data-target=".navbar-collapse" href="#technos">Technos</a></li>
+		      	<li><a data-toggle="collapse" data-target=".navbar-collapse" href="http://delphinelemire.wordpress.com">Blog</a></li>
+		   
 		      	<li><a data-toggle="collapse" data-target=".navbar-collapse" href="#contact">Contact</a></li>
 		      </ul>
 		    </div>
@@ -215,7 +216,6 @@
 		13, route de Nassandres - 27470 SERQUIGNY
 		   </p>
 	</footer>
-	   <script type="text/javascript" src="js/jquery-1.12.4.min.js"></script>
-	   <script type="text/javascript" src="js/bootstrap.min.js"></script>
+	   <script type="text/javascript" src="js/min/javascript.js"></script>
 	</body>
 </html>

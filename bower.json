@@ -1,0 +1,22 @@
+{
+  "name": "mycv",
+  "description": "README ======",
+  "main": "gulpfile.js",
+  "authors": [
+    "Delphine lemire"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/assets/vendor",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap-sass": "bootstrap-sass-official#^3.3.6"
+  }
+}
